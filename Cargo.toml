@@ -1,0 +1,9 @@
+[package]
+name = "angry"
+version = "0.1.0"
+authors = ["Norberto Lopes <nlopes.ml@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "^0.7.0"
+sysinfo = "^0.9.1"
