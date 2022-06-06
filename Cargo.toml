@@ -1,9 +1,9 @@
 [package]
 name = "angry"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Norberto Lopes <nlopes.ml@gmail.com>"]
-edition = "2018"
+edition = "2021"
 
 [dependencies]
-rand = "0.7"
-sysinfo = "0.14"
+rand = "0.8"
+sysinfo = "0.24"
